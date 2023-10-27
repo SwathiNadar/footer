@@ -3,7 +3,7 @@
   <head>
     <body>
       <footer>
-        <p>Manasi Dandhach</p>
+        <p>Manas Dandhach</p>
         <a href="manasi@techfest.org">
         </a>
         <p1>Arnav patel</p1>
